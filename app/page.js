@@ -15,7 +15,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{' '}
+            Tiny Weeny Yellow Polka Dot Bikini {' '}
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
